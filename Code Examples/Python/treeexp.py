@@ -1,3 +1,4 @@
+# Custom Library to make creating Trees simpler #
 class Tree:
     def __init__(self):
         self.val = None
